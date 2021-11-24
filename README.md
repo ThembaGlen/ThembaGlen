@@ -19,6 +19,10 @@ LinkedIn: https://www.linkedin.com/in/thembalethu-glen-baloyi-021489172/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThembaGlen&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ThembaGlen/count.svg" />
+</p>
 
 
 <!--
