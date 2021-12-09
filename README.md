@@ -7,7 +7,7 @@ my path to programming is as follows: <br>
 Highschool Grade 11-12 : Delphi 🧑🏽<br>
 College 1st year       : HTML, CSS, JavaScript, Java  👨🏽‍🎓  <br>
 College 2nd year       : C#, Asp.net, Vb.net, PHP, SQL  👨🏽‍💻   <br>
-College 3rd year       : T-SQL, Kotlin, Firebase, RESTful API's  👨🏼‍🔧 </pre>
+College 3rd year       : T-SQL, Kotlin, Firebase, API's  👨🏼‍🔧 </pre>
 <---------------------------------------------------------------------------------------------------------------------------------------------------><br><br>
 My common frameworks for most projects are:<br>
 HTML5⭐️, CSS3🌟, Javascript💥, Asp.net☄️, Vb.net🌠, php(basic)💫, MS SQL🛸.<br><br>
