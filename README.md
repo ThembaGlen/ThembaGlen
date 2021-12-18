@@ -5,7 +5,7 @@ my path to programming is as follows: <br>
 <----------------------------------------------------------------Education------------------------------------------------------------------------><br>
 <pre>Highschool Grade 10    : Scratch👶🏽 <br>
 Highschool Grade 11-12 : Delphi 🧑🏽<br>
-College 1st year       : HTML, CSS, JavaScript, Java  👨🏽‍🎓  <br>
+College 1st year       : HTML, CSS, JavaScript, Java, OracleDB  👨🏽‍🎓  <br>
 College 2nd year       : C#, Asp.net, Vb.net, PHP, SQL  👨🏽‍💻   <br>
 College 3rd year       : T-SQL, Kotlin, Firebase, API's  👨🏼‍🔧 </pre>
 <---------------------------------------------------------------------------------------------------------------------------------------------------><br><br>
