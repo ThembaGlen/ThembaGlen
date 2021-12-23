@@ -14,7 +14,8 @@ HTML5⭐️, CSS3🌟, Javascript💥, Asp.net☄️, Vb.net🌠, php(basic)💫
 Frameworks that I'm currently learning (self study):<br>
 Bootstrap✨, MySQL🌱, Angular-TypeScript🔭, Microsoft Azure⚡, ML.net.💬<br><br>
 <===================== My Socials ====><br>
-Instagram: https://www.instagram.com/indigo_cancer/ <br>
+<br>
+twitter: https://twitter.com/Themba_freeborn
 LinkedIn: https://www.linkedin.com/in/thembalethu-glen-baloyi-021489172/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThembaGlen&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
